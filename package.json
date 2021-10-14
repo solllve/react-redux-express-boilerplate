@@ -1,0 +1,15 @@
+{
+  "name": "react-redux-express-crud",
+  "version": "1.0.0",
+  "description": "boilerplate for building react apps",
+  "main": "/client/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node /server/index.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
